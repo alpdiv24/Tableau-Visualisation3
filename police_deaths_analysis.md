@@ -10,6 +10,7 @@ This dataset contains information on fatal police deaths in the United States. T
 
 Rows: 26336
 Columns: 9
+<pre>
 #   Column          Non-Null Count  Dtype 
 ---  ------          --------------  ----- 
  0   Rank            26336 non-null  object
@@ -22,6 +23,7 @@ Columns: 9
  7   Department      26336 non-null  object
  8   State           26336 non-null  object
 dtypes: int64(1), object(8)
+</pre>
 
 ## Image1: Diff in Avg Sales - quarterly
 This chart shows % difference in average sales for each category from the previous year for each Quarter.
